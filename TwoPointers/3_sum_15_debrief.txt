@@ -1,0 +1,3 @@
+1. Got far too focused on an optimal solution that doesn't exist. First, focus on finding the solution if the optimal complexity class isn't obvious.
+2. For that reason, did not consider sorting the input array.
+3. After sorting the input array, failed to notice that incrementing i, j by one after finding a valid solution produces duplicates. Solution requires implementing these indices by however many values until a new value is found. 

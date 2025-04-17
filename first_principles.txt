@@ -1,0 +1,4 @@
+﻿1. List out a series of observations and map actionable points to specific “navigations” around the problem space, before coding.
+	a. It is totally reasonable to spend 8-10 minutes doing this before even writing a single line. If anything, it demonstrates to the interview that what you're seeing is in fact a new problem. 
+2. If there is no obvious target time complexity, simply find a solution.
+3. 

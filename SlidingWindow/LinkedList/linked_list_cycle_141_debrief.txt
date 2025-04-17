@@ -1,0 +1,2 @@
+1. Failed to recognize that fast/slow pointers must be initialized at different starting indices. 
+2. Failed to add trivial base case to initial submission. 

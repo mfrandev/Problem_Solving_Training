@@ -1,0 +1,4 @@
+﻿1. I over complicated the problem. Don’t do a backwards iteration strategy unless:
+	a. It’s really obvious
+	b. Forward iteration strategy is not working
+2. Listing out observations and facts about the problem and linking it to a set of actions was very helpful. 

@@ -1,0 +1,4 @@
+1. No way I was coming up with the bucket sort solution on my own right now. 
+2. This problem was totally solvable using a heap, but the heap would have needed to be sorted by frequency, and I don't know how to do that with a pair of values. 
+3. That's a really valuable exercise actually. Go do that right now and report back. 
+4. Turns out that heapq orders in lexicographical order. Basically, Insert the tuple as (-freq, value), pop k times, append the values to its own set, and that's the heap solution. 

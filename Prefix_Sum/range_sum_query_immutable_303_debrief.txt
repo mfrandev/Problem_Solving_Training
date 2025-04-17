@@ -1,0 +1,4 @@
+1. Recognised the prefix sum technique from the question. I.e., Sum of elements from i to j in an array.
+2. Did not handle the "left-1 < 0" case correctly from the start. Instead of subtracting 0, I subtracted nums[0], which was wrong. 
+3. Reminder to be careful with python class accesses. Always make sure to use the "self" modifier when accessing class variables, except in the "setter" case in the constructor, where "self.data = data"
+4. Initially had an extra variable "sum" used to compute prefix sums. That was really silly, because I should have simply used the previous prefix sum. The setup is tabulation-like.  

@@ -1,0 +1,1 @@
+1. This problem is pretty simple. After establishing that sets cannot contain duplicate values, the solution is clear. Note that a set can be created from an array if the array is passed to its constructor. 

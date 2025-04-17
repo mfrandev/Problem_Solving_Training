@@ -1,0 +1,5 @@
+1. Check if the length of the tabulation table needs to be n + 1 because of 0-based indexing. 
+2. All tabulation involves is formally defining a sequence and relationship between states within that sequence (recurrence relation).
+3. Tabulation is called "Bottom Up" Dynamic Programming.
+4. Is it possible that the states in the sequence might be related to the indices of the table itself ? 
+5. 

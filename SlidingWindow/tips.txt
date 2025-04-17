@@ -1,0 +1,5 @@
+1. Check if the problem statement references any specific sequence lengths (indicating a fixed-length window). 
+2. If we only want to see if an item occurs "MORE THAN ONCE" in a stream, use a set !
+3. If we are looking for a max, iterate in the while loop while the invariant is violated and check for solutions outside.
+4. If we are looking for a min, iterate in the while loop while the invariant is satisfied and check for solutions inside. 
+5. Challenge of these problems is identifying the correct invariant!

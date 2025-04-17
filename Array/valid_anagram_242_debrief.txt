@@ -1,0 +1,4 @@
+1. I rushed way to quickly into the problem because I have solved this one many times. 
+2. Missed the detail about the frequency count because of it!
+3. Let this be a reminder that slow is smooth, smooth is fast.
+4. Also, Python has a built-in data structure called Counter() that takes an array and returns a nice frequency mapping :) 

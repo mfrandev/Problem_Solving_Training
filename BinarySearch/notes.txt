@@ -1,0 +1,6 @@
+1. Completely forgot the relationship between the binary search condition and "l" at the time of search completion. 
+2. Forgot how to modify l and r, w.r.t. the condition. It should be l < r, then changes to 'l' should look like 'l = m + 1' w.r.t. to the condition, while 'r' changes as 'r =  m'.
+3. At the time of search termination, 'l' value is the 'i'th smallest element which satisifes the condition function. 
+4. The the "condition function" is the determinant of whether the 'i'th element is "smaller" or "larger" than our target.
+5. In other words, the condition function is how we define and act on the monotonic properties of the input.
+

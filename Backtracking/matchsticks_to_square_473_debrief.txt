@@ -1,0 +1,5 @@
+1. Did not understand how to approach this at first, but here are the important questions.
+2. Q: How should each side of the square be modeled? A: Array of fixed length 4, initialized with all zeros. 
+3. State the base cases facts explicitly about side length, benefits of sorting, and cases for early stopping. 
+4. Layout each backtracking "action." I.e., can add match[n] to any side, but maybe not the outcome we want. 
+5. We can reduce the number of branches in the backtracking significantly by ending the particular "subtree" for a square's side if it matches the target side length. 

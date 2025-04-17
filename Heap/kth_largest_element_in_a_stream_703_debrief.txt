@@ -1,0 +1,3 @@
+1. General concept feels well understood. 
+2. Looking for a kth largest element, so we maintain a min heap of size k.
+3. Did not spend enough time making observations, or I would have hoped to notice that the stream is not guaranteed to be initialized with K elements.

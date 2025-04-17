@@ -1,0 +1,5 @@
+1. Do some backtracking problems (including the permutations pattern).
+2. Do some graph traversal problems.
+3. Do 3 more kth most/least problems.
+4. Review Binary Search Article. 
+5. Assess current state. 

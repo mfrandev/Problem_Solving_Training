@@ -1,0 +1,1 @@
+1. This problem was my first serious introduction to heapq library in python. See the heapq notes file in this directory for takeways of this problem. 

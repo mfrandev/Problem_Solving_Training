@@ -1,0 +1,2 @@
+1. Problem was very approachable, but made an incorrect observation. 
+2. We should be biasing the LATEST occurrence of nums[i], not the FIRST occurrence. 

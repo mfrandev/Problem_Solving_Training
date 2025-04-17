@@ -1,0 +1,5 @@
+1. This problem did not go well. I had no idea how exactly to integrate the queue into the solution, largely because I failed to recognize how the problem space grew. 
+2. I got stuck at figuring what the next ugly numbers were.
+3. I did successfully identify the base case, that 1 is an ugly number. 
+4. I did not consider that the nth value is indexed as n-1.
+5. Did not initially consider using the "visited" set to prevent duplicates, but as this is effectively a kind of BFS graph problem that makes a lot of sense. 

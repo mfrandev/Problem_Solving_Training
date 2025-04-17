@@ -1,0 +1,13 @@
+1. Python heaps are not a built-in stucture on the iterable. 
+2. Need to use a library called "heapq."
+3. Use a helpful function, heapq.heapify(my_arr) to transform an array into a MIN heap. 
+4. Note that max heaps are not implemented, so need to do some tricky work with maintain absolute values when it comes to numbers.
+5. Must find an equivalent technique when it comes to non-numerical values.
+6. The useful functions for heapq are:
+	a. heapq.heapify(my_arr): Transforms arr into heap
+	b. heapq.heappush(my_arr, elem): Inserts "elem" into its correct position in the heap according to the heap invariant. 
+	c. heapq.heappop(my_arr): Removes the "top" element of the heap and returns it. 
+	d. heapq.heappushpop(my_arr, elem): Pushes the "elem" then pops the smallest element off the heap and returns it.
+	5. heapq.nlargest(n, my_arr): Returns the n largest elements in the heap as an iterable.
+	6. heapq.nsmallest(n, my_arr): Returns the n smallest elements in the heap as an iterable.
+	7. my_arr[0]: Access the smallest element of the heap using this index.

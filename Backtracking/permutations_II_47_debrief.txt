@@ -1,0 +1,5 @@
+1. Instead of getting permutations on the original array, we want to ensure no duplicates are generated.
+2. Would not have come up with this solution on my own. I do not have a good sense of whether or not I'm overcomplicating the problem.
+3. With Backtracking, tend towards no. 
+4. Use the frequency counter hash map to remember how many occurences of each element have been used at a certain point in the search. 
+5. If an element is exhaused, do not use it and skip to the next. 

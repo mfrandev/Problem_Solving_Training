@@ -1,0 +1,7 @@
+1. No way I was coming up with that on my own right now. One day I will be able to though. 
+2. I am happy to have at least seen this pattern now.
+3. I correctly identified that we had to do something special with each element of the array, but I did not consider to recursively deconstruct the array, placing each element at index 0 at some point throughout the recursive traversal. 
+4. Clever move is to re-insert element at index 0 at each position during each step of recursive return. This is done using the Python my_arr.insert(index, element) syntax.
+5. Remeber that we are looking for array copies here, not simply a reference. 
+6. Failed to recognize that permutations iterative solution is very similar to the recursive version. 
+7. This problem would be beneficial to do 10 times. 

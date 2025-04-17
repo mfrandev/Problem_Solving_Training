@@ -1,0 +1,3 @@
+# Comment 1: This solution was accepted, but very inefficient. 
+# Comment 2: The approach was on the correct complexity scale though, 3-passes of 0(n), so O(n)
+# Comment 3: We don't need to iterate three times. That fixes the runtime issue.

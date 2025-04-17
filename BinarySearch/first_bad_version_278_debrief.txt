@@ -1,0 +1,3 @@
+1. I understood the problem and how the statement defines the monotonic relationship among the input.
+2. Completing this problem taught me how the generic binary search template is correctly applied, particularly w.r.t. updating l, r indices.
+3. To put it explicitly, it doesn't matter how the condition function is phrased, but if left is being modified, it will allways be mid + 1 if l < r is the looping condition.  
