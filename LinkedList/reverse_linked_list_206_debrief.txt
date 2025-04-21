@@ -1,0 +1,2 @@
+1. Did a good job with the general pattern.
+2. Failed to recognize that if we're ending the loop on curr being None, then prev must contain the head of the solution.

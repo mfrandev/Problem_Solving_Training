@@ -1,0 +1,2 @@
+1. Very good job on this problem, recognizing that it's a stack question. 
+2. Seems like it may be a good idea to ask if application of a series of operations can be solved using a stack.

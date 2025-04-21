@@ -1,0 +1,2 @@
+1. This was bad. For some reason, I didn't recognize that we can traverse each side of the tree at the same time. 
+2. This was a failure to make a simple observation. I was too caught up in traversing one side of the tree at-a-time.

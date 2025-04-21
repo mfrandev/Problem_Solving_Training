@@ -1,0 +1,2 @@
+1. Think about the need to iterate over the whole list in each back tracking step (n steps), vs a strict subset of that (k steps). 
+2. Think about the types of decision the problem requires when branching. I.e., our branch factor determines our backtracking structure. 

@@ -1,0 +1,2 @@
+1. Pretty decent performance on this one. I recognized everything, except the correct branching factor. 
+2. This problem helped me develop the frame of reference I needed to actually perform that analysis, so I am encouraged by this.

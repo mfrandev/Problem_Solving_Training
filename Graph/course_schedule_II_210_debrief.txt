@@ -1,0 +1,2 @@
+1. This was pretty decent. The adaptation between course schedule I and II was reasonable. 
+2. Just forgot that adding a course to the result list is the same as fully visiting it. 

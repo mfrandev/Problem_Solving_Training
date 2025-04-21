@@ -1,0 +1,2 @@
+1. Sort of rough, but I was able to work though the problem and make the necessary optimizations to fix the runtime.
+2. Demonstrates the versatility of default dict. Remember to initialize as defaultdict(list) for this problem.

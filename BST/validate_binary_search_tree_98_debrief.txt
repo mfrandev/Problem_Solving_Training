@@ -1,0 +1,2 @@
+1. Sheesh that was a bad performance. I way overcomplicated the problem.
+2. I failed to recognize that the definition of a BST reduces to continuous satisfaction of an inequality. After checking for this inequality and updating the endpoints appropriately, this problem becomes beautifully simple.

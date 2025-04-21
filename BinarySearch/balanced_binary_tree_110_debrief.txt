@@ -1,0 +1,1 @@
+1. This was good. Understood the definition of the balance tree, determined which search needed to be used, and did it.

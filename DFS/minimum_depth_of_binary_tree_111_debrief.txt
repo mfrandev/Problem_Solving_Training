@@ -1,0 +1,2 @@
+1. This was pretty well done. Did not initially notice the definition of whether or not this node is a leaf node, but came to it quickly.
+2. Essentially, if either node returns the "None" signal, then go for maximum because the maximum will be guaranteed to be a leaf node.Otherwise we want to take the min of two non-leaf nodes.

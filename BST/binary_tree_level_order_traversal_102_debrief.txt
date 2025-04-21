@@ -1,0 +1,2 @@
+1. I understand this problem pretty well. 
+2. Neglected the base case return value, returning null instead of empty list.
