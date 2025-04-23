@@ -1,0 +1,5 @@
+1. Well done. Intuitively identified that this is a stack problem almost immediately. 
+2. The solution you came up with made sense, you wrote the process out in english at the top of the file too.
+3. The only thing you forgot to vocalize, but did think about, is if the first element of the list is the one to be removed.
+4. Variables were clearly defined, so you knew well what was what.
+Rating: 9/10

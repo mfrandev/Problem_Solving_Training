@@ -1,0 +1,4 @@
+1. If input is monotonically arranged, use a stack.
+2. Otherwise, use a deque.
+3. Strategy is to loop over the structure to maintain monotonicity is a change needs to be made.
+4. 

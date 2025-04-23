@@ -1,14 +1,36 @@
-def climbStairs(self, n):
-    memo = {}
-    def climb(i):
-        if i < 0:
-            return 0
-        if i == 1:
-            return 1
-        if i == 2:
-            return 2
-        if i in memo:
-            return memo[i]
-        memo[i] = climb(i - 1) + climb(i - 2)
-        return memo[i]
-    return climb(n)
+"""
+N stairs in the staircase
+
+We can take one or two steps at each point
+- Branching factor of 2.
+- From step k, there are n ways to get to the top
+
+If we are at the top, or over the top, there is nothing we can do
+If there is 1 step to go, we have one way
+If there are 2 steps to go, there are two ways (1+1, 2)
+
+If we have 3 steps to go, we can either take 1 step, or we can take two seps. 1 step gets us to the 2nd to last step (2) and 2 steps gets us to the last step (1) so num(2) + num(1) is good.
+
+If we have k steps to go, we can either take 1 step to the k-1th step, or 2 steps to the k-2th step. We would have ways(k-1) + ways(k-2) ways of getting to the destination from the kth step.
+"""
+
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        memo = {}
+        def search(dist):
+
+            if dist < 0:
+                return 0
+            if dist == 1:
+                return 1
+            if dist == 2:
+                return 2
+                
+            if dist in memo:
+                return memo[dist]
+
+            memo[dist] = search(dist - 1) + search(dist - 2)
+            return memo[dist]
+        
+        memo[n] = search(n)
+        return memo[n]

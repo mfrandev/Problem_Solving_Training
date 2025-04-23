@@ -1,0 +1,3 @@
+1. The way you jumped right into the solution was dangerous. You initially wanted to use a hash set to track "seen" elements, but because this is a monotonically increasing linked list, there was a much more elegant solution.
+2. However, you did quickly find this solution and realize your mistake.
+Rating: 6/10
