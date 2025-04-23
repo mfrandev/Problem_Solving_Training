@@ -1,0 +1,5 @@
+1. First mistake was not reading the problem statement closely enough. Missed the key detail that digits are in reverse order. I.e., first node of list is least significant digit.
+2. Noticed that since this is a linked list problem, a stack could be really helpful.
+3. I didn't originally consier that non-zero carry has to be added to the solution after addition completes.
+4. Failed to construct the results list top-down and returning from a dummy node. Needed to add all values to a stack, and build the results set bottom-up.
+Result: 6/10, problem solved. 
