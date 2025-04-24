@@ -1,5 +1,0 @@
-1. Do some graph traversal problems.
-2. Do 3 more kth most/least problems.
-3. Review Binary Search Article. 
-4. Assess current state. 
-5. Learn basic principle of overlapping intervals pattern.

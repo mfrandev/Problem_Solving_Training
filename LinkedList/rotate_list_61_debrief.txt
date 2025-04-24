@@ -1,0 +1,6 @@
+1. This was a very good job. You took the extra time to read the problem constraints, identified that k must be modified k % len(list), and that we will have no more than 500 nodes, so a stack can be used.
+2. Implementation was good. Could have been faster, but you did it in under 10 minutes. This will take time, but a good mark for now.
+3. Variable names were accurate. I knew what I was dealing with throughout the whole solution.
+4. There were edge cases I should have paid more attention to, i.e., head == None and k = 0, but once these were dealt with, solution was accepted on the first submission.
+Rating: 8.5/10 (with high standards applied)
+Well Done.

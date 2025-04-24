@@ -1,7 +1,0 @@
-Plan for Leetcode 4-15-2025:
-1. Learn how to use the min/max heap in python. 
-	1a. Note: CodeSignal does allow for heapq imports. 
-2. Work on array algorithms to get more comfortable with the problem solving and python utilities. 
-3. Figure out strategies for 'k' greatest/smallest problems, as well as appropriate time compelxity analysis for these problems. 
-4. Review concepts for backtracking, practice for backtracking will come tomorrow. 
-5. Do 5 problems on DFS, BFS, And TopoSort
