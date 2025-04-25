@@ -1,0 +1,3 @@
+1. Really well done. You've seen the problem a long time ago, but immediately recognized the solution and the type of traversal that needed to be performed. This solution was definitely not memorized.
+2. Passed on the first go, implementation felt natural too. That's not something I say often, or lightly. Well done.
+Result: 10/10

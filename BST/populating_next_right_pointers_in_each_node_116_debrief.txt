@@ -1,0 +1,3 @@
+1. This was your best problem yet. You made the correct observations that (1) we needed to level order traverse the tree, and (2), we needed to treat each level as a linked list.
+2. By combining each of these two patterns, approach/implementation was accepted on the first go.
+Score: 10/10. Could not ask for anything more on this one.

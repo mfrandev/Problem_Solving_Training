@@ -1,0 +1,3 @@
+1. Good job identifying the solution, but it didn't work because of the Python closure "UnboundLocalError" raised.
+2. In this exercise, you learned that pass-by-value types become locally scoped in Python closures. For example, you cannot have a "sum" variable of type int and increment it from the search function. However, you CAN have an array of length 1, where arr[0] acts as an aggregator of the solution, which is what you've done here.
+Result: 7/10

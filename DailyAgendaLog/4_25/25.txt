@@ -1,0 +1,4 @@
+1. Read CTCI on greedy algorithms (It's a greedy day tomorrow).
+2. LeetCode 45: Jump Game II
+3. LeetCode 134: Gas Station
+4. LeetCode 135: Candy
