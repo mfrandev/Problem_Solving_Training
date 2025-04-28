@@ -1,0 +1,15 @@
+1. Greedy problems need to have the following two properties to produce an optimal solution:
+	- Greedy choice property
+	- Optimal substructure
+2. Greedy Choice Property (MacBethian Property): This is basically dynamic programming with the difference that we never reconsider past choices. Greedy is DP that believes "What's done is done, and cannot be undone." Hence, greedy algorithms often run on O(n) time complexity (where 'n' is the length of the input vector).
+3. Optimal Substructure: Optimal solution to the problem contains optimal solutions to the sub problems.
+4. Begs the question: What exactly are the sub problems? In the case of Jump Game II (LeetCode 45), subproblems are "what is the farthest we can get through the input array, given the current jump allowances?
+5. Greedy algorithms are often proved using the inductive exchange argument. A contradictive proof, showing that:
+	- Assume optimal solution exists that is not greedy.
+	- Identify the first point at which the optimal solution and the greedy solutions differ. 
+	- Prove that changing optimal solution for greedy solution does not change the result.
+	- Conclue that the greedy solution is optimal, by induction.
+6. Kruskal and Prim's algorithms (for finding MSTs) are two examples of greedy algorithms that work optimally for their use cases.
+7. Greedy algorithms are used in network routing as well.
+
+8. One possble strategy to determine if greedy is good or not is to (A) identify the structure of the subproblems and (B) see if at any point in the process we would need to "go back."

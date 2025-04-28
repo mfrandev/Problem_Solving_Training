@@ -1,0 +1,6 @@
+Note: Took a few days off this past weekend (Busy @ Merola's, Pat's Party: back on the 28th)
+1. LeetCode 45: Jump Game II
+2. LeetCode 134: Gas Station
+3. LeetCode 135: Candy
+4. LeetCode 1584: Min Cost To Connect All Points (Prim's Algorithm)
+

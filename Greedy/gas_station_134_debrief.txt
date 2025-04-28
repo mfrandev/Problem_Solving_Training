@@ -1,0 +1,5 @@
+1. Missed two of the three key observations. 
+2. Obs 1: if sum(cost) > sum(gas), then there is no solution. Otherwise, there is a guaranteed solution.
+3. If problem does not guarantee a solution, should ask "in which conditions are there no solutions?"
+4. Obs 2: If there is a solution, it is unique. Thus, the first possible solution (when iterating from left-to-right) is the answer.
+5. https://medium.com/@namit.and.saraswat/gas-station-leetcode-explanation-why-greedy-069adac470e8

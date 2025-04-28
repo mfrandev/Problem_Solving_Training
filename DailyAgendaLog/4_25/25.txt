@@ -1,4 +1,7 @@
 1. Read CTCI on greedy algorithms (It's a greedy day tomorrow).
-2. LeetCode 45: Jump Game II
-3. LeetCode 134: Gas Station
-4. LeetCode 135: Candy
+2. Learn the Minimum Spanning Tree algorithms (Prim, Kruskal)
+3. LeetCode 45: Jump Game II
+4. LeetCode 134: Gas Station
+5. LeetCode 135: Candy
+
+

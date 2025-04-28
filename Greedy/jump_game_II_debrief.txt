@@ -1,0 +1,5 @@
+1. I will give you a little bit of grace with this one. You've never been good at Greedy problems, but that's going to change. 
+2. You made many of the key observations, but had no idea how to set up the greedy invariant maintenance.
+3. You also overcomplicated the problem a bit. These solutions should actuall be quite simple, unless we can demonstrate a clear need for implementational complexity.
+4. Overall a good learning experience, but I need to see improvement quickly.
+Result: 5/10

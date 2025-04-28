@@ -1,0 +1,9 @@
+1. This problem has an interesting approach for [min/max]ing greedy problems.
+2. First, Identify that any rating greater than the one on its left must have more candy.
+3. Second, independently identify that any rating greater than the one on its right must have more candy.
+4. By iterating front-to-back, then back-to-front, you can enforce both of these conditions independently.
+5. After these two iterations, the invariant must be true, and return the answer.
+
+Pretty clever! Key is to identify that we don't ever want to move backwards while iterating left to right (the O(n^2) solution). 
+Second key is that after iterating left to right, that invariant will be satisfied regardless of what we do next because we are never subtracting. We are doing the locally optimal choice at each step, for both directions, so greedy!
+Essentially, while we may be doing more work while iterating right-to-left, we are building upon previous work, not reversing it!
