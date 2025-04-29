@@ -13,3 +13,4 @@
 7. Greedy algorithms are used in network routing as well.
 
 8. One possble strategy to determine if greedy is good or not is to (A) identify the structure of the subproblems and (B) see if at any point in the process we would need to "go back."
+9. Priority Queue data structure seems to pop up alot in greedy algorithms, which makes sense because the top element of the PQ is the most optimal element, given all of the information we have thus far.

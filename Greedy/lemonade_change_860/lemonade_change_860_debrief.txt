@@ -1,0 +1,3 @@
+1. Well done, minus the bug in line 26 (only return one 5-bill when giving change for a 20-bill with a 10-bill).
+2. Main question to address is "Where is is the greediness?" Answer is that whenever we give change, we want to default to the largest possible currency denomination available to us, if possible.
+Rating: 8/10

@@ -1,2 +1,4 @@
 1. Review LeetCode 1584 in the morning.
-2. Le
+# Numbers 2 and 3 are day 1 of the ChatGPT greedy algorithm study plan!
+2. LeetCode 455: Assign Cookies
+3. LeetCode 860: Lemonade Change
