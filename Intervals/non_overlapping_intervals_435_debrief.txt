@@ -1,0 +1,3 @@
+1. This was my first interval problem, so I'm not terribly upset about not finding the solution since I didn't have the intuition yet and can't be bothered to spend the time to develop it individually. 
+2. Basic pattern is to sort the intervals, either lexicographically, or acording to the end position, then whenever an interval overlaps, remove the element that ends later. 
+3. This works because by keeping the intervals that ends sooner, we are always minimizing the potential for a future interval collision. That's where the greedy choice property comes in on this problem.

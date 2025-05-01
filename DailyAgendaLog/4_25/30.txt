@@ -1,0 +1,5 @@
+Note: Numbers 1 and 2 are day two of the ChatGPT Greedy Algorithm study plan.
+1. LeetCode 435: Non-Overlapping Intervals
+2. LeetCode 56: Merge Intervals
+3. LeetCode 109: Convert Sorted List to a Binary Tree
+4. Read item 4 of C++

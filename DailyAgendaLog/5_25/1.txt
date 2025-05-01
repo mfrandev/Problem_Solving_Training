@@ -1,0 +1,6 @@
+# Note: Number 1 is to finish day 2 of Greedy Algorithm Training
+1. LeetCode 56: Merge Intervals
+# Note: Numbers 2 and 3 are Day 3 of Greedy Algorithm Training
+2. LeetCode 55: Jump Game 
+3. LeetCode 45: Jump Game II
+4. LeetCode 109: Convert Sorted List to a Binary Tree
