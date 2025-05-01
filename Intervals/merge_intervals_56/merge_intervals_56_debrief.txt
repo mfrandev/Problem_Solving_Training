@@ -1,0 +1,5 @@
+1. This was not great. I immediately pidgon-holed myself into a complicated solution by sorting w.r.t. the endpoint, rather than the start point. 
+2. Ultmiately did figure out the solution though, so that's good.
+3. Takeaway is to consider what the goal of sorting is. "What is our algorithm?"
+
+Result: 6/10 (min score for a solve w/o help). 
