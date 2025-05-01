@@ -1,0 +1,2 @@
+1. This one can't really count for anything because I've done this problem recently (before implementing the leetcode study system.)
+2. Solution uses the moving goalpost strategy.
