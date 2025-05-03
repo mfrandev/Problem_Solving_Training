@@ -1,0 +1,1 @@
+1. Recognized that this problem is very similar to non-overlapping intervals (435).

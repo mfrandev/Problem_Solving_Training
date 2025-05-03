@@ -1,0 +1,3 @@
+1. Question to consider is "What is the meaning of each value in the prefix sum array?" 
+2. Does maintaining my prefix sum require a lot of bookkeeping, or am I overcomplicated the problem?
+3.

@@ -1,0 +1,4 @@
+1. You solved the solution, but yet again overcomplicated it with a bunch of unnecessary bookkeeping. 
+2. The realization that this book keeping is unncessary is an important observation though.
+3. What is the meaning of each index in the prefix sum array? Change in number of passengers is a much more effective implementation meaning than total number of passengers.
+Result: 7/10
