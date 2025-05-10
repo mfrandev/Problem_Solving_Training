@@ -1,0 +1,5 @@
+1. Decent approach to this one.
+2. Used minimal memory, did not overcomplicate bookkeeping.
+3. Correctly identified the different types of intevrvals, i.e., does first start before second, does second end before first, is there even an active interval in the first place?
+
+Result: 7/10

@@ -1,0 +1,2 @@
+1. How do we organize the data ? Sorting by project cost makes sense, but need to zip the lists together.
+2. How do we greedily take the best project ? Only choose from projects we can currently build!

@@ -1,0 +1,6 @@
+1. This is pretty challenging to see what's going on. 
+2. Need to sum each individual value in nums to figure out what should be taken/skipped.
+3. At that point, problem becomes house robber, but with an additional check that two values do not have adjacent indices in nums array
+.
+
+Result: 5/10

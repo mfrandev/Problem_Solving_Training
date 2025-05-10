@@ -1,0 +1,2 @@
+1. Memoization key must capture all values that impact the return value.
+2. Accumulate the result using a series of return values. Not a parameter, unless completely necessary.
