@@ -1,0 +1,5 @@
+1. Most important detail here is that state is defined as the tuple [(index, goalpost)].
+1a. Need to learn how this is hashed in python.
+2. Recurrence relation is from a given (index, goalpost), to check how many ways to reach goalpost if adding this value, and how many if subtracting this value.
+3. Base cases are standard memo case, if index == end, goalpost == target, 1, else if done, then 0.
+

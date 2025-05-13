@@ -1,0 +1,3 @@
+1. Structure is [defaultdict(int)] to save space.
+2. Note how array is seeded. dp[0][0] = 1. "There is one way to sum 0 using 0 elements.
+3. Notice how indexing works. Since we iterate from i = 1, i is the next, while i - 1 is the current.
