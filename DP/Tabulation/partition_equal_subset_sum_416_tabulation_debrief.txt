@@ -1,0 +1,1 @@
+1. This wasn't too bad. Adapting the memoized approach into the 2D solution, into the 1D rotating set solution was pretty intuitive.

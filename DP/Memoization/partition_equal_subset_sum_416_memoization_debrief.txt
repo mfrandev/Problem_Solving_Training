@@ -1,0 +1,3 @@
+1. First surprising fact is that we can check the values in the array and if we can make half of it, we can make all of it.
+2. Second surprising fact is that the order of recursion really matters. We always want to "add," rather than skip. This allows us to check all of the branches that are more likely to return True first!
+3. No need to track sum1 and sum2. just a running sum. 
