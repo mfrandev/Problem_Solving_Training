@@ -6,24 +6,13 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
-        map = {}
-        for c in s:
-            if c not in map:
-                map[c] = 1
-            else:
-                map[c] = map[c] + 1
-        
-        map_2 = {}
-        for c in t:
-            if c not in map_2:
-                map_2[c] = 1
-            else:
-                map_2[c] += 1
-        
-        for c in s:
-            if c not in map or c not in map_2:
-                return False
-            if map_2[c] != map[c]:
+        sm = {}
+        tm = {}
+        for i in range(len(s)):
+            sm[s[i]] = 1 + sm.get(s[i], 0)
+            tm[t[i]] = 1 + tm.get(t[i], 0)
+        for s in sm:
+            if s not in tm or sm[s] != tm[s]:
                 return False
         return True
 
