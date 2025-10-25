@@ -1,0 +1,22 @@
+========================== interval list intersections (leetcode 986) review ==========================
+1. Decent approach to this one. 
+2. Used minimal memory, did not overcomplicate bookkeeping.
+3. Correctly identified the different types of intevrvals, i.e., does first start before second, does second end before first, is there even an active interval in the first place?
+
+Result: 7/10
+
+========================== merge intervals (leetcode 56) ==========================
+1. This was not great. I immediately pidgon-holed myself into a complicated solution by sorting w.r.t. the endpoint, rather than the start point. 
+2. Ultmiately did figure out the solution though, so that's good.
+3. Takeaway is to consider what the goal of sorting is. "What is our algorithm?"
+
+Result: 6/10 (min score for a solve w/o help). 
+
+========================== minimum number of arrays to burst balloons (leetcode 452) ==========================
+1. Recognized that this problem is very similar to non-overlapping intervals (435).
+
+========================== non-overlapping intervals (leetcode 435) ==========================
+1. This was my first interval problem, so I'm not terribly upset about not finding the solution since I didn't have the intuition yet and can't be bothered to spend the time to develop it individually. 
+2. Basic pattern is to sort the intervals, either lexicographically, or acording to the end position, then whenever an interval overlaps, remove the element that ends later. 
+3. This works because by keeping the intervals that ends sooner, we are always minimizing the potential for a future interval collision. That's where the greedy choice property comes in on this problem.
+
